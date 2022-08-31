@@ -1,6 +1,4 @@
 # Not So Young Adult 
-
-**Project description
 This is a landing page that I created as my final project for SheCodes' Basic Workshop.
 
 ## Table of contents
