@@ -1,7 +1,6 @@
 # Not So Young Adult 
 This is a landing page that I created as my final project for SheCodes' Basic Workshop.
 
-<<<<<<< HEAD
 ## Table of contents
 
 - [Not So Young Adult](#not-so-young-adult)
