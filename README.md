@@ -43,8 +43,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-
-### Built with
+<!-- TODO: Add more detail about your process. -->
+### Built with 
 
 - Basic HTML 
 - CSS custom properties
