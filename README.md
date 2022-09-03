@@ -85,9 +85,13 @@ body {
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+As someone who is fairly new to coding, I want to improve on the following:
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+1. HTML: Semantic tags, improve on writing classes, using the div tag to create containers. 
+2. CSS: Making background containers appear
+3. JavaScript: Gain a better understanding of the basics.   
+
+
 
 ### Useful resources
 
