@@ -95,10 +95,9 @@ As someone who is fairly new to coding, I want to improve on the following:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [SheCodes' CSS gradients](https://gradients.shecodes.io/) - This helped me for create the background colors of my landing page. I really liked this source and will use it going forward. I also recommend this tool for those who are new to CSS.  
+- [Landing Page tutorial](https://www.freecodecamp.org/news/how-to-make-a-landing-page-with-html-css-and-javascript/) - This article helped gave me some ideas on how to go about creating a landing page. I'd recommend it to anyone who struggling to build this kind of project.
+  
 
 ## Author
 
