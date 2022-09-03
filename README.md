@@ -66,12 +66,17 @@ Through this project, I have learned the following:
 ```
 body {
   background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%)
-}
+  }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+3. alert 
+```
+
+  if (age >=16){
+  alert("Welcome to the club" + name + "! Stay tuned for more updates! ");
+  }else{
+    alert(" Sorry kiddo! Better luck next year. ")
+  }
+  }
 ```
 
 
