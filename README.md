@@ -56,15 +56,16 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 Through this project, I have learned the following:
 
-"target="_blank"> 
+1. "target="_blank"> 
 ```html
 <footer>
 <p class="books-footer">This page was built by <a class="books-link" href="https://www.linkedin.com/in/christinebelzie/"target="_blank"> <em>Christine Belzie</em></a></p>
 </footer>
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
+2. linear-gradient 
+```
+body {
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%)
 }
 ```
 ```js
