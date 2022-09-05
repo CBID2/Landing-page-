@@ -34,8 +34,8 @@ This is a landing page that I created as my final project for SheCodes' Basic Wo
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/CBID2/Landing-page-.git)
+- Live Site URL: https://www.shecodes.io/workshops/shecodes-basics-7949bf94-9bab-4f69-b7ec-84552c72b8ff/projects/862893)
 
 ## My process
 ### Built with 
