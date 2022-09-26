@@ -25,4 +25,44 @@ h3{
   text-align: center;
   font-family: 'Courier New', Courier, monospace ;
   color: #005792;
+
+}
+
+img{
+
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+footer{
+	text-align: center; 
+}
+
+button{
+	padding: 15px 30px;
+  color: white;
+  background: linear-gradient(112.1deg, 
+  rgb(32,38,57) 11.4%, rgb(63,76,119) 
+  70.2%);
+  border: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px;
+  font-size: 18px;
+  transition: all 200ms ease-in-out;
+font-weight: bold;
+cursor: pointer;
+display: block;
+margin: auto;
+}
+
+li{
+	display: inline;
+ list-style: none;
+margin: 0px 10px;
+}
+button:hover{
+	color: beige;
+  background: #407088;
 }
