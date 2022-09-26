@@ -5,9 +5,24 @@ body{
 	line-height: 2.5;
 	font-weight: bold;
 }
+
 h1{
  text-align: center;
 color: #000;
 font-family: Comic sans-serif;
 
+}
+
+h2{
+	text-align: center;
+  color: 98a2ea;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h3{
+	text-decoration: underline;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace ;
+  color: #005792;
 }
