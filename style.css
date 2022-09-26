@@ -66,3 +66,11 @@ button:hover{
 	color: beige;
   background: #407088;
 }
+.container{
+	max-width: 1000px;
+  display: block;
+  margin: 0 auto;
+}
+.inner{
+	text-align: center;
+}
